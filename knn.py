@@ -56,4 +56,3 @@ if __name__ == "__main__":
     skKnn.fit(iris.data, iris.target)
     predictions2 = skKnn.predict(iris.data)
 
-    i = 0
